@@ -1,0 +1,9 @@
+[package]
+name = "bridge"
+edition = "2024"
+version = "0.0.1"
+
+[dependencies]
+
+[environments]
+devnet = "a9149565"
