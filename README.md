@@ -20,5 +20,7 @@ A cross-chain bridge app that allows users to transfer IBT tokens between Ethere
 
 ## Tech Stack
 **Frontend:** React, TypeScript, Sui dApp Kit,Ethers.js
+
 **Ethereum:** Solidity, Anvil
+
 **Sui:** Move, Sui CLI
